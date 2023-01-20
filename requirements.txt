@@ -21,6 +21,8 @@ pytz==2022.7.1
 PyYAML==6.0
 requests==2.28.2
 six==1.16.0
+stix2==3.0.1
+stix2-patterns==2.0.0
 termcolor==2.2.0
 urllib3==1.26.14
 wincertstore==0.2
